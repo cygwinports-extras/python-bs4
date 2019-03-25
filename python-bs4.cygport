@@ -2,7 +2,7 @@ ORIG_PN="beautifulsoup4"
 inherit python-wheel
 
 NAME="python-bs4"
-VERSION=4.6.0
+VERSION=4.7.1
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python HTML/XML parser"
